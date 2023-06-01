@@ -1,0 +1,12 @@
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\bin\Debug\net6.0\AppUser.Management.Service.deps.json
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\bin\Debug\net6.0\AppUser.Management.Service.dll
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\bin\Debug\net6.0\AppUser.Management.Service.pdb
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\AppUser.Management.Service.csproj.AssemblyReference.cache
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\AppUser.Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\AppUser.Management.Service.AssemblyInfoInputs.cache
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\AppUser.Management.Service.AssemblyInfo.cs
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\AppUser.Management.Service.csproj.CoreCompileInputs.cache
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\AppUser.Management.Service.dll
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\refint\AppUser.Management.Service.dll
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\AppUser.Management.Service.pdb
+D:\yazılım çalışmaları\visual çalışamaları\NET6COREMVC\05.05.2023--Identity\2.ders\TheoryPractice\AppUser.Management.Service\obj\Debug\net6.0\ref\AppUser.Management.Service.dll
